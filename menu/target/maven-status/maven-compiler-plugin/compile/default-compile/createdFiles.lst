@@ -1,0 +1,6 @@
+menu\RootPanel.class
+menu\IMenuAction.class
+menu\SubMenu.class
+menu\MButton.class
+menu\WorldsPanel.class
+menu\FinalScreen.class
